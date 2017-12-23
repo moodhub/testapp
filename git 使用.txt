@@ -1,0 +1,20 @@
+﻿1.  git clone https://github.com/moodhub/testapp.git
+
+2. git pull
+
+3.git branch app1
+
+4.git checkout app1
+
+5. git commit -m "modi test"
+
+6. git status
+
+7.git checkout master
+
+8.git merge app1
+
+9.git push -u origin master
+
+10.git branch -d app1
+
